@@ -1,4 +1,3 @@
 # HIML_TrabalhoFinal
 
-Link pasta com revisão bibliográfica e ppt.
-https://www.icloud.com/iclouddrive/0adRYGxzRYwbxL-h9pmt8Tnyw#revisao_bibliografica
+To execute this code is necessary to download all the cases (+25) data available on https://zenodo.org/record/3229743#.YrdFfC8w1N2 and save them on the same folder where the code is being executed.
