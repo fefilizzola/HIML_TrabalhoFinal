@@ -1,4 +1,6 @@
-# HIML_TrabalhoFinal
+# Wind turbine blade fatigue classifier
+
+## HIML_Trabalho Final
 
 To execute this code is necessary to:
 - Download all the cases (+25) data available on https://zenodo.org/record/3229743#.YrdFfC8w1N2.
